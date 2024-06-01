@@ -1,0 +1,43 @@
+[
+  {
+    "title": "COURSOHELIC",
+    "imageSrc": "projects/COURSOHELIC.jpg",
+    "description": "An Web App for simplifying the complex mapping algorithm of OBE system and automated system for course instructor, coordinator and admin.",
+    "skills": ["HTML", "CSS", "Django", "SQLite"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Tanmoy-SWE/DP-1.git"
+  },
+  {
+    "title": "ANDROMEDA",
+    "imageSrc": "projects/ANDROMEDA.jpg",
+    "description": "IUT FIS club website containing News Feed, Space APIs integration, E-commerce marketplace, Real time quizzing system, Online Recruitment and Space Simulations.",
+    "skills": ["HTML", "CSS", "Django", "SQLite"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Tanmoy-SWE/Andromeda--IUT-FIS_Website.git"
+  },
+  {
+    "title": "CREDIT SCORING SYSTEM",
+    "imageSrc": "projects/CREDIT SCORING SYSTEM.jpg",
+    "description": "A machine learning approach to predict the 'Credit Score' of the customers for the Micro Finance Institutions (MFIs).",
+    "skills": ["HTML", "CSS", "Django", "Django", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sadik-Yasin-Eftee/Credit-Score-Analysis"
+  },
+  {
+    "title": "FAKE NEWS DETECTION",
+    "imageSrc": "projects/FAKE NEWS DETECTION.jpg",
+    "description": "A machine learning approach to detect the fake news.",
+    "skills": ["Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sadik-Yasin-Eftee/Fake-News-Detection.git"
+  },
+
+  {
+    "title": "TIC TAC TOE",
+    "imageSrc": "projects/TIC TAC TOE.jpg",
+    "description": "Asimpletic tac toe game.",
+    "skills": ["Java", "JavaFX"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sadik-Yasin-Eftee/Tic-Tac-Toe.git"
+  }
+]
