@@ -26,7 +26,7 @@
   {
     "title": "FAKE NEWS DETECTION",
     "imageSrc": "projects/FAKE NEWS DETECTION.jpg",
-    "description": "A machine learning approach to detect the fake news.",
+    "description": "A machine learning approach to detect the fake news. Using Naive Bayes, Passive Aggressive Algorithm and LSTM.",
     "skills": ["Python"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Sadik-Yasin-Eftee/Fake-News-Detection.git"
@@ -35,7 +35,7 @@
   {
     "title": "TIC TAC TOE",
     "imageSrc": "projects/TIC TAC TOE.jpg",
-    "description": "Asimpletic tac toe game.",
+    "description": "A simplistic Tic Tac Toe game with a user-friendly interface. Implemented logic for detecting winning conditions, draws, and handling user input.",
     "skills": ["Java", "JavaFX"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Sadik-Yasin-Eftee/Tic-Tac-Toe.git"

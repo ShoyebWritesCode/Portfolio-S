@@ -19,7 +19,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Islamic University of Technology</h3>
               <p>B.Sc. in Software Engineering</p>
-              <p>3.63</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -27,7 +26,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Rajuk Uttara Model College</h3>
               <p> Higher Secondary School Certificate</p>
-              <p>5.00</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -35,7 +33,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Rajuk Uttara Model College</h3>
               <p>Secondary School Certificate</p>
-              <p>5.00</p>
             </div>
           </li>
         </ul>

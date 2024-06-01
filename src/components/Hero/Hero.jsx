@@ -9,9 +9,12 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Sadik</h1>
         <p className={styles.description}>
-          👋 I'm a Software Engineering undergraduate. Eager to collaborate on
-          exciting projects! Reach out to discuss potential opportunities. Let's
-          create impactful software solutions together! 🚀
+          👋 I'm a Software Engineering undergraduate with a passion for machine
+          learning and its applications. Experienced in developing ML models and
+          integrating them into software solutions. Eager to collaborate on
+          exciting projects that leverage ML algorithms to solve real-world
+          problems! Reach out to discuss potential opportunities. Let's create
+          impactful software solutions together! 🚀
         </p>
         <a href="mailto:sadikyasin492@gmail.com" className={styles.contactBtn}>
           Contact Me
