@@ -21,12 +21,12 @@ export const Contact = () => {
             alt="LinkedIn icon"
           />
           <a href="https://www.linkedin.com/in/sadik-yasin-0654a0201">
-            md-soyeb
+            sadik-yasin
           </a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl('contact/githubIcon.png')} alt="Github icon" />
-          <a href="https://github.com/Sadik-Yasin-Eftee">sadik-yasin</a>
+          <a href="https://github.com/Sadik-Yasin-Eftee">Sadik-Yasin-Eftee</a>
         </li>
       </ul>
     </footer>
